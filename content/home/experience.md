@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Nijmegen"
   date_start = "2019-09-01"
-  date_end = "2020-07-1"
+  date_end = "2020-07-01"
   description = """Followed third year bachelor courses and did committeework in the Nijmeegse Studenten Roeivereniging Phocas"""
 
 [[experience]]
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Nijmegen"
   date_start = "2018-09-01"
-  date_end = "2019-07-1"
+  date_end = "2019-07-01"
   description = """Full-time board member of the student rowing association Phocas."""
 
 [[experience]]
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Nijmegen"
   date_start = "2017-09-01"
-  date_end = "2018-07-1"
+  date_end = "2018-07-01"
   description = """Followed second year bachelor courses and did committeework in the Nijmeegse Studenten Roeivereniging Phocas"""
 
 [[experience]]
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Nijmegen"
   date_start = "2016-09-01"
-  date_end = "2017-07-1"
+  date_end = "2017-07-01"
   description = """Obtained my propedeuse in the first year of the Artificial Intelligence Bachelor"""
 
 [[experience]]
@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   company = "Sint-Maartenscollege"
   company_url = "https://www.sint-maartenscollege.nl"
   location = "Maastricht"
-  date_start = "2015-09-1"
-  date_end = "2016-07-1"
+  date_start = "2015-09-01"
+  date_end = "2016-07-01"
   description = """"""
 +++

@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
-subtitle = ""
+title = "Activiteiten buiten de studie"
+subtitle = "Commissiewerk"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "N.S.R.V. Phocas"
+  organization_url = "https://phocasnijmegen.nl"
+  title = "Bestuursfunctie Penningmeester Sociëteit"
   url = ""
   certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"

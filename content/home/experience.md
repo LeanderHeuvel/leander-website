@@ -70,6 +70,6 @@ date_format = "Jan 2006"
   company_url = "https://achelous.nl"
   location = "Nijmegen"
   date_start = "2019-09-01"
-  date_end = "present"
+  date_end = ""
   description = """Doing my Bachelor Thesis and chairman of H.R.G. Achelous"""
 +++

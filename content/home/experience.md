@@ -18,5 +18,13 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Board-member"
+  company = "H.R.G. Achelous"
+  company_url = "https://achelous.nl"
+  location = "Nijmegen"
+  date_start = "2020-09-18"
+  date_end = "2021-09-18"
+  description = """Bachelor Thesis and chairman of H.R.G. Achelous"""
 
 +++

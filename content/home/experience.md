@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Board-member"
+  company = "H.R.G. Achelous"
+  company_url = "https://achelous.nl"
+  location = "Nijmegen"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """Doing my Bachelor Thesis and chairman of H.R.G. Achelous"""
+
+[[experience]]
   title = "VWO diploma"
   company = "Sint-Maartenscollege"
   company_url = "https://www.sint-maartenscollege.nl"
@@ -27,24 +36,14 @@ date_format = "Jan 2006"
   description = """
 
   """
-
 [[experience]]
-  title = "Propedeuse Artificial Intelligence"
+  title = "Bachelor year 3 Artificial Intelligence"
   company = "Radboud University"
   company_url = ""
   location = "Nijmegen"
-  date_start = "2016-09-01"
-  date_end = "2017-07-1"
-  description = """Obtained my propedeuse in the first year of the Artificial Intelligence Bachelor"""
-
-[[experience]]
-  title = "Bachelor year 2 Artificial Intelligence"
-  company = "Radboud University"
-  company_url = ""
-  location = "Nijmegen"
-  date_start = "2017-09-01"
-  date_end = "2018-07-1"
-  description = """Followed second year bachelor courses and did committeework in the Nijmeegse Studenten Roeivereniging Phocas"""
+  date_start = "2019-09-01"
+  date_end = "2020-07-1"
+  description = """Followed third year bachelor courses and did committeework in the Nijmeegse Studenten Roeivereniging Phocas"""
 
 [[experience]]
   title = "Penningmeester Sociëteit"
@@ -56,20 +55,20 @@ date_format = "Jan 2006"
   description = """Full-time board member of the student rowing association Phocas."""
 
 [[experience]]
-  title = "Bachelor year 3 Artificial Intelligence"
+  title = "Bachelor year 2 Artificial Intelligence"
   company = "Radboud University"
   company_url = ""
   location = "Nijmegen"
-  date_start = "2019-09-01"
-  date_end = "2020-07-1"
-  description = """Followed third year bachelor courses and did committeework in the Nijmeegse Studenten Roeivereniging Phocas"""
+  date_start = "2017-09-01"
+  date_end = "2018-07-1"
+  description = """Followed second year bachelor courses and did committeework in the Nijmeegse Studenten Roeivereniging Phocas"""
 
 [[experience]]
-  title = "Board-member"
-  company = "H.R.G. Achelous"
-  company_url = "https://achelous.nl"
+  title = "Propedeuse Artificial Intelligence"
+  company = "Radboud University"
+  company_url = ""
   location = "Nijmegen"
-  date_start = "2019-09-01"
-  date_end = ""
-  description = """Doing my Bachelor Thesis and chairman of H.R.G. Achelous"""
+  date_start = "2016-09-01"
+  date_end = "2017-07-1"
+  description = """Obtained my propedeuse in the first year of the Artificial Intelligence Bachelor"""
 +++

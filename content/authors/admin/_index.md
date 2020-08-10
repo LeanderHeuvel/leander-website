@@ -41,6 +41,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/LeanderHeuvel
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/leander-van-den-heuvel/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

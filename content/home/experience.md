@@ -22,9 +22,9 @@ date_format = "Jan 2006"
   company = "H.R.G. Achelous"
   company_url = "https://achelous.nl"
   location = "Nijmegen"
-  date_start = "2019-09-01"
+  date_start = "2020-09-18"
   date_end = ""
-  description = """Doing my Bachelor Thesis and chairman of H.R.G. Achelous"""
+  description = """Bachelor Thesis and chairman of H.R.G. Achelous"""
 
 [[experience]]
   title = "Bachelor year 3 Artificial Intelligence"

@@ -27,16 +27,6 @@ date_format = "Jan 2006"
   description = """Doing my Bachelor Thesis and chairman of H.R.G. Achelous"""
 
 [[experience]]
-  title = "VWO diploma"
-  company = "Sint-Maartenscollege"
-  company_url = "https://www.sint-maartenscollege.nl"
-  location = "Maastricht"
-  date_start = "2015-09-1"
-  date_end = "2016-07-1"
-  description = """
-
-  """
-[[experience]]
   title = "Bachelor year 3 Artificial Intelligence"
   company = "Radboud University"
   company_url = ""
@@ -71,4 +61,15 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2017-07-1"
   description = """Obtained my propedeuse in the first year of the Artificial Intelligence Bachelor"""
+
+[[experience]]
+title = "VWO diploma"
+company = "Sint-Maartenscollege"
+company_url = "https://www.sint-maartenscollege.nl"
+location = "Maastricht"
+date_start = "2015-09-1"
+date_end = "2016-07-1"
+description = """
+
+  """
 +++
